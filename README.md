@@ -19,7 +19,7 @@ I am a life science researcher AI and machine learning student. During my studie
      
      K. Mnafgui, F. Kaanich, A. Derbali, K. Hamden, F. Derbali, S. Slama, N. Allouche, A. Elfeki, 2013. Inhibition of key enzymes related to diabetes and hypertension by Eugenol in vitro and in alloxan-induced diabetic rats. Arch Physiol Biochem.
 
- - Contat me
- 
+ - Contact me
+
  amal.derbali.gnichi@gmail.com
 
