@@ -23,12 +23,12 @@
 [databh]: https://github.com/AmalDerbali/Databehandling_AmalDerbali/tree/main/Lab
 [dash]: https://github.com/AmalDerbali/Databehandling_AmalDerbali/tree/main/Lab/Covid_dashboard
 [MachineLr]: https://github.com/AmalDerbali/Machine-learning-Amal-Derbali
+[lk]: https://www.linkedin.com/in/amal-derbali-b76bb415a/
 
 	
 
 
 
 - Contact me : 
-[Linkedin][lk] 
-[lk]: https://www.linkedin.com/in/amal-derbali-b76bb415a/
+[Linkedin][lk]
 
