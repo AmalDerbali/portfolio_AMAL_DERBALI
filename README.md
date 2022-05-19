@@ -1,6 +1,6 @@
-# portfolio_AMAL_DERBALI
+# Amal Derbali
 
-- Amal Derbali
+
 
 - I am a doctor in biology and AI and machine learning student. During my studies, I developed a keen interest in research that combines biomedical sciences and phytotherapy. I have experienced working across several different departments which allowed me to gain a wide variety of relevant knowledge and analytical skills. 
 - Now and after I decided to change my track I am a studying to be a devoloper in Artificial Intelligence and Machine Learning in IT-Högskolan.
